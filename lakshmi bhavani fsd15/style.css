@@ -204,7 +204,7 @@ position:relative;
  
 }
 .cardsdiv{
-    justify-content: space-between;
+ padding-left:50px;
 }
 .cardsdiv a{
     text-decoration: none;
